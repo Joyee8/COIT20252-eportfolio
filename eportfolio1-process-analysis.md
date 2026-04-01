@@ -42,3 +42,11 @@ This artefact was selected from the Week 3 lecture, which outlines different tec
 I chose this artefact because it helped me understand how process analysis is applied in real situations. It showed that process analysis is not only theoretical but also involves structured tools and methods to evaluate performance. This improved my understanding of BPM by showing how organisations can use data and analysis techniques to make informed decisions. I found this artefact meaningful because it demonstrates how different analytical methods can be used together to improve process efficiency and reduce risks, which is essential for continuous improvement.
 
 ---
+
+## References
+
+Galea, G 2026, *COIT20252 Business Process Management Lecture Materials*, CQUniversity.
+
+ABPMP International 2019, *Guide to the Business Process Management Common Body of Knowledge (BPM CBOK®)*, Version 4.0.
+
+---
