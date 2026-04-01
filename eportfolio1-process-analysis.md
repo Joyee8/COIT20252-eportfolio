@@ -50,3 +50,7 @@ Galea, G 2026, *COIT20252 Business Process Management Lecture Materials*, CQUniv
 ABPMP International 2019, *Guide to the Business Process Management Common Body of Knowledge (BPM CBOK®)*, Version 4.0.
 
 ---
+
+## Use of AI
+
+AI tools were used during the planning and structuring stage of this assessment to organise ideas and understand task requirements. All final content was reviewed, edited, and written in my own words to ensure originality and alignment with unit expectations.
