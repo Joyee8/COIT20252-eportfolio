@@ -1,9 +1,9 @@
 # COIT20252 – E-Portfolio 1: Process Analysis
 
-**Student Name:** Joyee Chakraborty |
-**Student Number:** 12286715 |
-**Unit:** COIT20252 Business Process Management |
-**Topic:** Process Analysis
+**Student Name:** Joyee Chakraborty  
+**Student Number:** 12286715  
+**Unit:** COIT20252 Business Process Management  
+**Topic:** Process Analysis  
 
 ---
 
@@ -15,7 +15,12 @@ This e-portfolio presents four artefacts related to process analysis in Business
 
 ## Artefact 1 – Asana: Business Process Analysis – 5 Steps, Tools and Tips
 
-![Business Process Analysis Steps](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Business_process_model.png/320px-Business_process_model.png)
+| Field | Details |
+|---|---|
+| **Type** | 🌐 Website / Online Guide |
+| **Published** | 2025 |
+| **Link** | [asana.com/resources/business-process-analysis](https://asana.com/resources/business-process-analysis) |
+| **Relevance** | Process Analysis steps, tools and techniques |
 
 **Artefact:** Asana 2025, *Business Process Analysis: 5 Steps, Tools, and Tips*, Asana Resources, viewed April 2025, <https://asana.com/resources/business-process-analysis>
 
@@ -27,7 +32,12 @@ Coming from an IT background with no prior experience in business processes, I i
 
 ## Artefact 2 – ABBYY: What is Business Process Analysis: Techniques and Examples
 
-![AS-IS TO-BE Process Analysis](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/BPMN-AProcessWithNormalFlow.svg/320px-BPMN-AProcessWithNormalFlow.svg.png)
+| Field | Details |
+|---|---|
+| **Type** | 📝 Blog Article |
+| **Published** | 9 May 2025 |
+| **Link** | [abbyy.com/blog/business-process-analysis](https://www.abbyy.com/blog/business-process-analysis/) |
+| **Relevance** | AS-IS analysis, bottleneck detection, automation connection |
 
 **Artefact:** ABBYY 2025, *What is Business Process Analysis: Techniques, Examples*, ABBYY Blog, 9 May, viewed April 2025, <https://www.abbyy.com/blog/business-process-analysis/>
 
@@ -39,7 +49,12 @@ As an IT student, the part of this article that resonated most with me was the c
 
 ## Artefact 3 – Six Sigma: Process Analysis for Operational Efficiency
 
-![Process Analysis Techniques](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Fishbone_Diagram.png/320px-Fishbone_Diagram.png)
+| Field | Details |
+|---|---|
+| **Type** | 📝 Educational Article |
+| **Published** | 7 May 2025 |
+| **Link** | [6sigma.us – Process Analysis for Beginners](https://www.6sigma.us/business-process-management-articles/process-analysis-operational-efficiency/) |
+| **Relevance** | Process mapping, BPMN techniques, continuous improvement |
 
 **Artefact:** Six Sigma US 2025, *What is Process Analysis? Tips and Tricks for Beginners*, Six Sigma US, 7 May, viewed April 2025, <https://www.6sigma.us/business-process-management-articles/process-analysis-operational-efficiency/>
 
@@ -51,9 +66,14 @@ I chose this artefact because it introduced me to the range of techniques used i
 
 ## Artefact 4 – YouTube: Business Process Modelling (BPMN) Explained – Complete Beginner Guide
 
-[![BPMN YouTube Video](https://img.youtube.com/vi/-IRN9yQYE6o/0.jpg)](https://www.youtube.com/watch?v=-IRN9yQYE6o)
+| Field | Details |
+|---|---|
+| **Type** | 🎬 YouTube Video |
+| **Published** | 29 November 2025 |
+| **Link** | [youtube.com/watch?v=-IRN9yQYE6o](https://www.youtube.com/watch?v=-IRN9yQYE6o) |
+| **Relevance** | Visual BPMN walkthrough, AS-IS process mapping, beginner guide |
 
-▶️ **Watch the video:** [Business Process Modelling (BPMN) Explained | Complete Beginner Guide](https://www.youtube.com/watch?v=-IRN9yQYE6o)
+> 🎬 **Click to watch the video:** [Business Process Modelling (BPMN) Explained | Complete Beginner Guide](https://www.youtube.com/watch?v=-IRN9yQYE6o)
 
 **Artefact:** BPMN Explained 2025, *Business Process Modelling (BPMN) Explained | Complete Beginner Guide*, YouTube, 29 November, viewed April 2025, <https://www.youtube.com/watch?v=-IRN9yQYE6o>
 
