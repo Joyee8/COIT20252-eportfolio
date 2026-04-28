@@ -17,7 +17,7 @@ This e-portfolio presents four artefacts related to process analysis in Business
 
 | Field | Details |
 |---|---|
-| **Type** | 🌐 Website / Online Guide |
+| **Type** | Website / Online Guide |
 | **Published** | 2025 |
 | **Link** | [asana.com/resources/business-process-analysis](https://asana.com/resources/business-process-analysis) |
 | **Relevance** | Process Analysis steps, tools and techniques |
@@ -34,7 +34,7 @@ Coming from an IT background with no prior experience in business processes, I i
 
 | Field | Details |
 |---|---|
-| **Type** | 📝 Blog Article |
+| **Type** | Blog Article |
 | **Published** | 9 May 2025 |
 | **Link** | [abbyy.com/blog/business-process-analysis](https://www.abbyy.com/blog/business-process-analysis/) |
 | **Relevance** | AS-IS analysis, bottleneck detection, automation connection |
@@ -51,7 +51,7 @@ As an IT student, the part of this article that resonated most with me was the c
 
 | Field | Details |
 |---|---|
-| **Type** | 📝 Educational Article |
+| **Type** | Educational Article |
 | **Published** | 7 May 2025 |
 | **Link** | [6sigma.us – Process Analysis for Beginners](https://www.6sigma.us/business-process-management-articles/process-analysis-operational-efficiency/) |
 | **Relevance** | Process mapping, BPMN techniques, continuous improvement |
@@ -68,12 +68,12 @@ I chose this artefact because it introduced me to the range of techniques used i
 
 | Field | Details |
 |---|---|
-| **Type** | 🎬 YouTube Video |
+| **Type** | YouTube Video |
 | **Published** | 29 November 2025 |
 | **Link** | [youtube.com/watch?v=-IRN9yQYE6o](https://www.youtube.com/watch?v=-IRN9yQYE6o) |
 | **Relevance** | Visual BPMN walkthrough, AS-IS process mapping, beginner guide |
 
-> 🎬 **Click to watch the video:** [Business Process Modelling (BPMN) Explained | Complete Beginner Guide](https://www.youtube.com/watch?v=-IRN9yQYE6o)
+>  **Click to watch the video:** [Business Process Modelling (BPMN) Explained | Complete Beginner Guide](https://www.youtube.com/watch?v=-IRN9yQYE6o)
 
 **Artefact:** BPMN Explained 2025, *Business Process Modelling (BPMN) Explained | Complete Beginner Guide*, YouTube, 29 November, viewed April 2025, <https://www.youtube.com/watch?v=-IRN9yQYE6o>
 
