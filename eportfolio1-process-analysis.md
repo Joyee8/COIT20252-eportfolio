@@ -15,19 +15,19 @@ This e-portfolio presents four artefacts related to process analysis in Business
 
 ## Artefact 1 – Asana: Business Process Analysis – 5 Steps, Tools and Tips
 
-[![Asana BPA Guide](https://img.youtube.com/vi/-IRN9yQYE6o/mqdefault.jpg)](https://asana.com/resources/business-process-analysis)
+![Business Process Analysis Steps](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Business_process_model.png/320px-Business_process_model.png)
 
 **Artefact:** Asana 2025, *Business Process Analysis: 5 Steps, Tools, and Tips*, Asana Resources, viewed April 2025, <https://asana.com/resources/business-process-analysis>
 
 This artefact is an online guide published by Asana in 2025 that explains what business process analysis (BPA) is and how organisations apply it in practice. It describes BPA as a structured method for reviewing, mapping, and evaluating workflows to find areas for improvement. The guide outlines five key steps for conducting a BPA, explains when and why organisations use it, and introduces practical tools and techniques that help make operations more efficient and achieve better results (Asana 2025, p. 1).
 
-Coming from an IT background with no prior experience in business processes, I initially assumed that process analysis was something only large corporations with dedicated management teams would do. This guide completely changed that view. It showed me that process analysis is a practical, step-by-step method used by organisations of all sizes, and that tools I was already familiar with from an IT context — such as workflow mapping and data analysis — are directly used in BPA. I was genuinely surprised to see how widely this approach is applied across industries. This artefact is meaningful evidence of my learning because it gave me a concrete framework for understanding how organisations diagnose and improve their processes, which is the foundation of BPM.
+Coming from an IT background with no prior experience in business processes, I initially assumed that process analysis was something only large corporations with dedicated management teams would do. This guide completely changed that view. It showed me that process analysis is a practical, step-by-step method used by organisations of all sizes, and that tools I was already familiar with from an IT context — such as workflow mapping and data analysis — are directly used in BPA. I was genuinely surprised to see how widely this approach is applied across industries worldwide. This artefact is meaningful evidence of my learning because it gave me a concrete framework for understanding how organisations diagnose and improve their processes, which is the foundation of BPM.
 
 ---
 
 ## Artefact 2 – ABBYY: What is Business Process Analysis: Techniques and Examples
 
-[![ABBYY BPA Article](https://img.youtube.com/vi/7_OWoVRUXXo/mqdefault.jpg)](https://www.abbyy.com/blog/business-process-analysis/)
+![AS-IS TO-BE Process Analysis](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/BPMN-AProcessWithNormalFlow.svg/320px-BPMN-AProcessWithNormalFlow.svg.png)
 
 **Artefact:** ABBYY 2025, *What is Business Process Analysis: Techniques, Examples*, ABBYY Blog, 9 May, viewed April 2025, <https://www.abbyy.com/blog/business-process-analysis/>
 
@@ -39,7 +39,7 @@ As an IT student, the part of this article that resonated most with me was the c
 
 ## Artefact 3 – Six Sigma: Process Analysis for Operational Efficiency
 
-[![Six Sigma Process Analysis](https://img.youtube.com/vi/2D-6ItSs8nI/mqdefault.jpg)](https://www.6sigma.us/business-process-management-articles/process-analysis-operational-efficiency/)
+![Process Analysis Techniques](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Fishbone_Diagram.png/320px-Fishbone_Diagram.png)
 
 **Artefact:** Six Sigma US 2025, *What is Process Analysis? Tips and Tricks for Beginners*, Six Sigma US, 7 May, viewed April 2025, <https://www.6sigma.us/business-process-management-articles/process-analysis-operational-efficiency/>
 
