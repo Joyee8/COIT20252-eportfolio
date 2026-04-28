@@ -17,7 +17,7 @@ This e-portfolio presents four artefacts related to Business Process Modelling (
 
 | Field | Details |
 |---|---|
-| **Type** | 🌐 Industry Article |
+| **Type** | Industry Article |
 | **Published** | 2025 |
 | **Link** | [ibm.com/think/topics/bpmn](https://www.ibm.com/think/topics/bpmn) |
 | **Relevance** | BPMN as global ISO standard, events, gateways, sequence flows |
@@ -34,7 +34,7 @@ As an IT student, I was immediately drawn to this artefact because it came from 
 
 | Field | Details |
 |---|---|
-| **Type** | 🌐 Tutorial / Industry Guide |
+| **Type** | Tutorial / Industry Guide |
 | **Published** | 2025 |
 | **Link** | [camunda.com/bpmn](https://camunda.com/bpmn/) |
 | **Relevance** | BPMN for cross-team collaboration, business and IT communication |
@@ -51,7 +51,7 @@ This artefact was particularly meaningful to me as an IT student because it high
 
 | Field | Details |
 |---|---|
-| **Type** | 📝 Blog Article |
+| **Type** | Blog Article |
 | **Published** | 27 March 2025 |
 | **Link** | [boombirds.com – BPMN Basics](https://www.boombirds.com/blog/2025/03/27/business-process-modelling-notation-bpmn/) |
 | **Relevance** | BPMN 2.0 elements, swim lanes, message flows, data objects |
@@ -68,12 +68,12 @@ I chose this artefact because, as a complete beginner to business process modell
 
 | Field | Details |
 |---|---|
-| **Type** | 🎬 YouTube Video |
+| **Type** | YouTube Video |
 | **Published** | 29 November 2025 |
 | **Link** | [youtube.com/watch?v=-IRN9yQYE6o](https://www.youtube.com/watch?v=-IRN9yQYE6o) |
 | **Relevance** | BPMN elements walkthrough, start/end events, gateways, sequence flows |
 
-> 🎬 **Click to watch the video:** [Business Process Modelling (BPMN) Explained | Complete Beginner Guide](https://www.youtube.com/watch?v=-IRN9yQYE6o)
+> **Click to watch the video:** [Business Process Modelling (BPMN) Explained | Complete Beginner Guide](https://www.youtube.com/watch?v=-IRN9yQYE6o)
 
 **Artefact:** BPMN Explained 2025, *Business Process Modelling (BPMN) Explained | Complete Beginner Guide*, YouTube, 29 November, viewed April 2025, <https://www.youtube.com/watch?v=-IRN9yQYE6o>
 
