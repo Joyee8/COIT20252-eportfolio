@@ -1,8 +1,8 @@
 # COIT20252 – E-Portfolio 2: Business Process Modelling
 
-**Student Name:** Joyee Chakraborty
-**Student Number:** 12286715
-**Unit:** COIT20252 Business Process Management
+**Student Name:** Joyee Chakraborty |
+**Student Number:** 12286715 |
+**Unit:** COIT20252 Business Process Management |
 **Topic:** Business Process Modelling
 
 ---
@@ -27,7 +27,7 @@ I chose this artefact because it introduced me to BPMN from the perspective of a
 
 ## Artefact 2 – Camunda: BPMN Tutorial – Learn Business Process Model and Notation
 
-[![Camunda BPMN Tutorial](https://camunda.com/wp-content/uploads/2023/06/bpmn-tutorial-og.png)](https://camunda.com/bpmn/)
+(https://camunda.com/wp-content/uploads/2023/06/bpmn-tutorial-og.png)](https://camunda.com/bpmn/)
 
 **Artefact:** Camunda 2025, *BPMN Tutorial: Learn Business Process Model and Notation*, Camunda, viewed April 2025, <https://camunda.com/bpmn/>
 
@@ -39,7 +39,7 @@ I chose this artefact because it provided practical insight into how BPMN is use
 
 ## Artefact 3 – Boombirds: The Basics of Business Process Modelling Notation (BPMN)
 
-[![Boombirds BPMN Blog](https://www.boombirds.com/wp-content/uploads/2025/03/bpmn-basics-header.jpg)](https://www.boombirds.com/blog/2025/03/27/business-process-modelling-notation-bpmn/)
+(https://www.boombirds.com/wp-content/uploads/2025/03/bpmn-basics-header.jpg)](https://www.boombirds.com/blog/2025/03/27/business-process-modelling-notation-bpmn/)
 
 **Artefact:** Kidd, J 2025, *The Basics of Business Process Modelling Notation (BPMN)*, Boombirds, 27 March, viewed April 2025, <https://www.boombirds.com/blog/2025/03/27/business-process-modelling-notation-bpmn/>
 
