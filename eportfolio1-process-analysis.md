@@ -1,6 +1,6 @@
 # COIT20252 – E-Portfolio 1: Process Analysis
 
-**Student Name:** Joyee Chakraborty/
+**Student Name:** Joyee Chakraborty //
 **Student Number:** 12286715
 **Unit:** COIT20252 Business Process Management
 **Topic:** Process Analysis
