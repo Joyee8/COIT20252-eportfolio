@@ -1,6 +1,6 @@
 # COIT20252 – E-Portfolio 1: Process Analysis
 
-**Student Name:** Joyee Chakraborty
+**Student Name:** Joyee Chakraborty/
 **Student Number:** 12286715
 **Unit:** COIT20252 Business Process Management
 **Topic:** Process Analysis
@@ -15,7 +15,7 @@ This e-portfolio presents four artefacts related to process analysis in Business
 
 ## Artefact 1 – Asana: Business Process Analysis – 5 Steps, Tools and Tips
 
-[![Asana BPA Guide](https://assets.asana.biz/m/6ba1a0bbfaa36a4b/original/business-process-analysis-header.png)](https://asana.com/resources/business-process-analysis)
+(https://assets.asana.biz/m/6ba1a0bbfaa36a4b/original/business-process-analysis-header.png)](https://asana.com/resources/business-process-analysis)
 
 **Artefact:** Asana 2025, *Business Process Analysis: 5 Steps, Tools, and Tips*, Asana Resources, viewed April 2025, <https://asana.com/resources/business-process-analysis>
 
@@ -27,7 +27,7 @@ I chose this artefact because it gave me a clear, structured view of how process
 
 ## Artefact 2 – ABBYY: What is Business Process Analysis: Techniques and Examples
 
-[![ABBYY BPA Article](https://www.abbyy.com/media/images/blog/business-process-analysis-header.jpg)](https://www.abbyy.com/blog/business-process-analysis/)
+(https://www.abbyy.com/media/images/blog/business-process-analysis-header.jpg)](https://www.abbyy.com/blog/business-process-analysis/)
 
 **Artefact:** ABBYY 2025, *What is Business Process Analysis: Techniques, Examples*, ABBYY Blog, 9 May, viewed April 2025, <https://www.abbyy.com/blog/business-process-analysis/>
 
@@ -39,7 +39,7 @@ I chose this artefact because it provided a detailed, technically informed persp
 
 ## Artefact 3 – Six Sigma: Process Analysis for Operational Efficiency
 
-[![Six Sigma Process Analysis](https://www.6sigma.us/wp-content/uploads/2025/05/process-analysis-header.jpg)](https://www.6sigma.us/business-process-management-articles/process-analysis-operational-efficiency/)
+(https://www.6sigma.us/wp-content/uploads/2025/05/process-analysis-header.jpg)](https://www.6sigma.us/business-process-management-articles/process-analysis-operational-efficiency/)
 
 **Artefact:** Six Sigma US 2025, *What is Process Analysis? Tips and Tricks for Beginners*, Six Sigma US, 7 May, viewed April 2025, <https://www.6sigma.us/business-process-management-articles/process-analysis-operational-efficiency/>
 
