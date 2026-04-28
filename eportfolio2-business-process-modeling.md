@@ -1,9 +1,9 @@
 # COIT20252 – E-Portfolio 2: Business Process Modelling
 
-**Student Name:** Joyee Chakraborty |
-**Student Number:** 12286715 |
-**Unit:** COIT20252 Business Process Management |
-**Topic:** Business Process Modelling
+**Student Name:** Joyee Chakraborty  
+**Student Number:** 12286715  
+**Unit:** COIT20252 Business Process Management  
+**Topic:** Business Process Modelling  
 
 ---
 
@@ -15,19 +15,29 @@ This e-portfolio presents four artefacts related to Business Process Modelling (
 
 ## Artefact 1 – IBM: What is Business Process Modeling and Notation (BPMN)?
 
-[![IBM BPMN Article](https://img.youtube.com/vi/-IRN9yQYE6o/mqdefault.jpg)](https://www.ibm.com/think/topics/bpmn)
+| Field | Details |
+|---|---|
+| **Type** | 🌐 Industry Article |
+| **Published** | 2025 |
+| **Link** | [ibm.com/think/topics/bpmn](https://www.ibm.com/think/topics/bpmn) |
+| **Relevance** | BPMN as global ISO standard, events, gateways, sequence flows |
 
 **Artefact:** IBM 2025, *What is Business Process Modeling and Notation (BPMN)?*, IBM Think, viewed April 2025, <https://www.ibm.com/think/topics/bpmn>
 
 This artefact is an online article published by IBM that explains BPMN as the global standard for modelling business processes. It describes how BPMN provides a graphical notation for representing workflows using standardised symbols including events, activities, gateways, and sequence flows. The article explains that BPMN enables business analysts, technical developers, and business managers to share a common understanding of how processes are designed and executed, helping bridge communication gaps between business and IT teams (IBM 2025, p. 1).
 
-As an IT student, I was immediately drawn to this artefact because it came from IBM, a company I associate with cutting-edge technology. What genuinely surprised me was discovering that BPMN is not just a niche academic tool but a globally recognised ISO standard used by major organisations worldwide. Before reading this, I assumed that different companies would each have their own way of drawing process diagrams, making it hard to collaborate. Learning that BPMN provides a universal language that both business and IT people can understand was a revelation for me. This artefact is meaningful evidence of my learning because it established why standardised process modelling matters in professional practice, which is something I had never considered before beginning this unit.
+As an IT student, I was immediately drawn to this artefact because it came from IBM, a company I associate with cutting-edge technology. What genuinely surprised me was discovering that BPMN is not just a niche academic tool but a globally recognised ISO standard used by major organisations worldwide. Before reading this, I assumed that different companies would each have their own way of drawing process diagrams, making collaboration difficult. Learning that BPMN provides a universal language that both business and IT people can understand was a revelation for me. This artefact is meaningful evidence of my learning because it established why standardised process modelling matters in professional practice — something I had never considered before beginning this unit.
 
 ---
 
 ## Artefact 2 – Camunda: BPMN Tutorial – Learn Business Process Model and Notation
 
-[![Camunda BPMN Tutorial](https://img.youtube.com/vi/7_OWoVRUXXo/mqdefault.jpg)](https://camunda.com/bpmn/)
+| Field | Details |
+|---|---|
+| **Type** | 🌐 Tutorial / Industry Guide |
+| **Published** | 2025 |
+| **Link** | [camunda.com/bpmn](https://camunda.com/bpmn/) |
+| **Relevance** | BPMN for cross-team collaboration, business and IT communication |
 
 **Artefact:** Camunda 2025, *BPMN Tutorial: Learn Business Process Model and Notation*, Camunda, viewed April 2025, <https://camunda.com/bpmn/>
 
@@ -39,7 +49,12 @@ This artefact was particularly meaningful to me as an IT student because it high
 
 ## Artefact 3 – Boombirds: The Basics of Business Process Modelling Notation (BPMN)
 
-[![Boombirds BPMN Blog](https://img.youtube.com/vi/2D-6ItSs8nI/mqdefault.jpg)](https://www.boombirds.com/blog/2025/03/27/business-process-modelling-notation-bpmn/)
+| Field | Details |
+|---|---|
+| **Type** | 📝 Blog Article |
+| **Published** | 27 March 2025 |
+| **Link** | [boombirds.com – BPMN Basics](https://www.boombirds.com/blog/2025/03/27/business-process-modelling-notation-bpmn/) |
+| **Relevance** | BPMN 2.0 elements, swim lanes, message flows, data objects |
 
 **Artefact:** Kidd, J 2025, *The Basics of Business Process Modelling Notation (BPMN)*, Boombirds, 27 March, viewed April 2025, <https://www.boombirds.com/blog/2025/03/27/business-process-modelling-notation-bpmn/>
 
@@ -51,9 +66,14 @@ I chose this artefact because, as a complete beginner to business process modell
 
 ## Artefact 4 – YouTube: Business Process Modelling (BPMN) Explained – Complete Beginner Guide
 
-[![BPMN YouTube Tutorial](https://img.youtube.com/vi/-IRN9yQYE6o/0.jpg)](https://www.youtube.com/watch?v=-IRN9yQYE6o)
+| Field | Details |
+|---|---|
+| **Type** | 🎬 YouTube Video |
+| **Published** | 29 November 2025 |
+| **Link** | [youtube.com/watch?v=-IRN9yQYE6o](https://www.youtube.com/watch?v=-IRN9yQYE6o) |
+| **Relevance** | BPMN elements walkthrough, start/end events, gateways, sequence flows |
 
-▶️ **Watch the video:** [Business Process Modelling (BPMN) Explained | Complete Beginner Guide](https://www.youtube.com/watch?v=-IRN9yQYE6o)
+> 🎬 **Click to watch the video:** [Business Process Modelling (BPMN) Explained | Complete Beginner Guide](https://www.youtube.com/watch?v=-IRN9yQYE6o)
 
 **Artefact:** BPMN Explained 2025, *Business Process Modelling (BPMN) Explained | Complete Beginner Guide*, YouTube, 29 November, viewed April 2025, <https://www.youtube.com/watch?v=-IRN9yQYE6o>
 
