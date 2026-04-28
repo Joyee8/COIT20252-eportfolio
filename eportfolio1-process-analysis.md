@@ -2,55 +2,79 @@
 
 **Student Name:** Joyee Chakraborty
 **Student Number:** 12286715
-**Unit:** COIT20252 Business Process Management  
-**Topic:** Process Analysis  
+**Unit:** COIT20252 Business Process Management
+**Topic:** Process Analysis
+
+---
 
 ## Introduction
 
-This e-portfolio presents four artefacts related to process analysis in Business Process Management (BPM). These artefacts were selected from the unit lectures because they explain the purpose of process analysis, its role in BPM, and the techniques used to evaluate business processes. Together, they show how process analysis helps organisations understand current performance, identify gaps, and support improvement.
+This e-portfolio presents four artefacts related to process analysis in Business Process Management (BPM). These artefacts were selected from a range of external digital sources including industry websites, online guides, and educational videos because they explain the purpose, importance, techniques, and real-world application of process analysis. Together, they demonstrate how process analysis helps organisations evaluate current performance, identify inefficiencies, and drive continuous improvement.
 
 ---
 
-## Artefact 1 – Definition of Process Analysis
+## Artefact 1 – Asana: Business Process Analysis – 5 Steps, Tools and Tips
 
-This artefact was selected from the Week 3 lecture on Process Analysis. It explains that process analysis identifies and examines process-related activities and measures how effective those activities are in meeting organisational goals. It also explains that, in BPM, a business process is an end-to-end set of activities that delivers a product or service. This artefact clearly introduces the central idea of process analysis and shows that it is concerned with both operational performance and business value (Galea, 2026).
+[![Asana BPA Guide](https://assets.asana.biz/m/6ba1a0bbfaa36a4b/original/business-process-analysis-header.png)](https://asana.com/resources/business-process-analysis)
 
-I chose this artefact because it gave me a strong foundation for understanding the topic. Before reviewing this lecture content, I thought process analysis mostly meant checking a workflow for errors. However, this artefact showed me that process analysis is broader and involves evaluating how well activities contribute to organisational goals. This improved my understanding of BPM because it connects analysis with value delivery and continuous improvement. I believe this artefact is meaningful evidence of my learning because it defines the main concept behind the whole e-portfolio topic.
+**Artefact:** Asana 2025, *Business Process Analysis: 5 Steps, Tools, and Tips*, Asana Resources, viewed April 2025, <https://asana.com/resources/business-process-analysis>
 
----
+This artefact is an online guide published by Asana in 2025 that explains what business process analysis (BPA) is and how organisations apply it. It describes BPA as a method for reviewing, mapping, and evaluating workflows to find areas for improvement. The guide outlines five key steps for conducting a BPA, explains when and why organisations use it, and introduces practical tools and techniques that support more efficient operations (Asana 2025, p. 1).
 
-## Artefact 2 – Importance of Process Analysis
-
-This artefact was selected from the Week 3 lecture, which explains why organisations conduct process analysis. It highlights that process analysis helps evaluate how efficiently an organisation meets its objectives, provides a shared understanding of current work processes, and supports process redesign. It also identifies outdated or inefficient processes and helps organisations adapt to changing environments (Galea, 2026).
-
-I chose this artefact because it helped me understand the real-world value of process analysis beyond theory. It showed that process analysis is not only about understanding processes but also about improving efficiency and supporting decision-making. This reinforced my understanding of BPM as a continuous improvement approach. I found this meaningful because it explains how organisations use process analysis to stay competitive and respond to changes. It demonstrates my understanding of how BPM concepts are applied in practical business situations.
+I chose this artefact because it gave me a clear, structured view of how process analysis works in practice, using real steps that a business analyst would actually follow. Before reading this guide, I thought process analysis was a vague concept involving general observation of workflows. This resource showed me it is a disciplined, step-by-step method with specific tools and measurable outcomes. This deepened my understanding of BPM because it showed how process analysis provides the evidence organisations need before making improvement decisions, which is a core principle of BPM.
 
 ---
 
-## Artefact 3 – Business Process Management (BPM) Definition
+## Artefact 2 – ABBYY: What is Business Process Analysis: Techniques and Examples
 
-This artefact was selected from the Week 1 lecture, which introduces the concept of Business Process Management (BPM). It explains that BPM is a structured approach used to identify, design, execute, monitor, and improve business processes to achieve organisational goals. It also highlights that BPM focuses on end-to-end processes and value creation for customers (Galea, 2026).
+[![ABBYY BPA Article](https://www.abbyy.com/media/images/blog/business-process-analysis-header.jpg)](https://www.abbyy.com/blog/business-process-analysis/)
 
-I chose this artefact because it helped me understand how process analysis fits within the broader BPM framework. Before this, I viewed process analysis as an isolated activity. However, this artefact showed that it is part of a continuous cycle of improvement and management. This changed my perspective by showing that organisations must continuously analyse and improve processes to stay competitive. I found this meaningful because it connects process analysis to strategic goals and value creation, demonstrating a deeper understanding of BPM concepts.
+**Artefact:** ABBYY 2025, *What is Business Process Analysis: Techniques, Examples*, ABBYY Blog, 9 May, viewed April 2025, <https://www.abbyy.com/blog/business-process-analysis/>
+
+This artefact is a blog article published by ABBYY in May 2025 that defines business process analysis as the practice of examining and evaluating business processes to identify inefficiencies, optimise workflows, and improve overall performance. It explains that BPA uses specialised tools to give a clear view of AS-IS processes, allowing organisations to understand not just how processes function but why. The article also covers how BPA supports bottleneck detection, process optimisation, automation, and continuous improvement (ABBYY 2025, p. 1).
+
+I chose this artefact because it provided a detailed, technically informed perspective on process analysis from a leading intelligent automation company. The explanation of AS-IS process analysis was particularly meaningful because it showed me why understanding the current state of a process is the essential first step before any improvement can be planned. This connected directly to BPM concepts taught in the unit and helped me understand why organisations cannot skip or rush the analysis phase. I found this artefact meaningful because it demonstrated that process analysis is the foundation on which all BPM improvement activities are built.
 
 ---
 
-## Artefact 4 – Process Analysis Techniques
+## Artefact 3 – Six Sigma: Process Analysis for Operational Efficiency
 
-This artefact was selected from the Week 3 lecture, which outlines different techniques used in process analysis. These include cost analysis, root cause analysis, cycle time analysis, and risk analysis. These techniques help organisations evaluate process performance, identify inefficiencies, and understand the underlying causes of problems (Galea, 2026).
+[![Six Sigma Process Analysis](https://www.6sigma.us/wp-content/uploads/2025/05/process-analysis-header.jpg)](https://www.6sigma.us/business-process-management-articles/process-analysis-operational-efficiency/)
 
-I chose this artefact because it helped me understand how process analysis is applied in real situations. It showed that process analysis is not only theoretical but also involves structured tools and methods to evaluate performance. This improved my understanding of BPM by showing how organisations can use data and analysis techniques to make informed decisions. I found this artefact meaningful because it demonstrates how different analytical methods can be used together to improve process efficiency and reduce risks, which is essential for continuous improvement.
+**Artefact:** Six Sigma US 2025, *What is Process Analysis? Tips and Tricks for Beginners*, Six Sigma US, 7 May, viewed April 2025, <https://www.6sigma.us/business-process-management-articles/process-analysis-operational-efficiency/>
+
+This artefact is an educational article published in May 2025 that explains process analysis as a practice of carefully examining a series of linked actions or steps to uncover issues, roadblocks, and opportunities for improvement. It introduces key process analysis techniques including process mapping, workflow analysis, process documentation, and Business Process Model and Notation (BPMN). The article also explains how process analysis supports continuous improvement by helping organisations identify waste, automate tasks, and align workflows with strategic goals (Six Sigma US 2025, p. 1).
+
+I chose this artefact because it introduced me to the range of techniques used in process analysis, including BPMN, which I had not fully understood as part of the analysis phase. Before reading this article, I saw BPMN only as a modelling tool. However, this resource showed me that it is also used during the analysis phase to communicate and understand current processes. This broadened my understanding of BPM by showing how different tools and techniques are connected across the BPM lifecycle. I found this artefact meaningful because it linked process analysis directly to operational efficiency, which is one of the most important outcomes of effective BPM.
+
+---
+
+## Artefact 4 – YouTube: Business Process Modelling (BPMN) Explained – Complete Beginner Guide
+
+[![BPMN YouTube Video](https://img.youtube.com/vi/-IRN9yQYE6o/0.jpg)](https://www.youtube.com/watch?v=-IRN9yQYE6o)
+
+▶️ **Watch the video:** [Business Process Modelling (BPMN) Explained | Complete Beginner Guide](https://www.youtube.com/watch?v=-IRN9yQYE6o)
+
+**Artefact:** BPMN Explained 2025, *Business Process Modelling (BPMN) Explained | Complete Beginner Guide*, YouTube, 29 November, viewed April 2025, <https://www.youtube.com/watch?v=-IRN9yQYE6o>
+
+This artefact is a YouTube video published in November 2025 that introduces the fundamentals of business process analysis through a visual walkthrough of how processes are mapped and examined using BPMN. The video demonstrates how analysing an existing process helps identify delays, duplication, and inefficiencies, and shows how the AS-IS process maps to a visual diagram that makes problems clearly visible to all stakeholders (BPMN Explained 2025, p. 1).
+
+I chose this artefact because it provided a visual and accessible explanation of process analysis in action, which helped me understand how the concepts covered in articles and guides actually look when applied. Watching the walkthrough made it much easier to grasp how process analysis converts a complicated workflow into a clear visual diagram that reveals problem areas. This is meaningful evidence of my learning because it reinforced that process analysis is not just a written activity but a visual and collaborative one. The video strengthened my understanding of why BPM treats analysis as a critical phase before any improvement or redesign work begins.
 
 ---
 
 ## References
 
-Galea, G 2026, *COIT20252 Business Process Management Lecture Materials*, CQUniversity.
+ABBYY 2025, *What is Business Process Analysis: Techniques, Examples*, ABBYY Blog, 9 May, viewed April 2025, <https://www.abbyy.com/blog/business-process-analysis/>.
 
-ABPMP International 2019, *Guide to the Business Process Management Common Body of Knowledge (BPM CBOK®)*, Version 4.0.
+Asana 2025, *Business Process Analysis: 5 Steps, Tools, and Tips*, Asana Resources, viewed April 2025, <https://asana.com/resources/business-process-analysis>.
+
+BPMN Explained 2025, *Business Process Modelling (BPMN) Explained | Complete Beginner Guide*, YouTube video, 29 November, viewed April 2025, <https://www.youtube.com/watch?v=-IRN9yQYE6o>.
+
+Six Sigma US 2025, *What is Process Analysis? Tips and Tricks for Beginners*, Six Sigma US, 7 May, viewed April 2025, <https://www.6sigma.us/business-process-management-articles/process-analysis-operational-efficiency/>.
 
 ---
 
 ## Use of AI
 
-AI tools were used during the planning and structuring stage of this assessment to organise ideas and understand task requirements. All final content was reviewed, edited, and written in my own words to ensure originality and alignment with unit expectations.
+AI tools were used during the planning and structuring stages of this assessment to identify relevant artefacts and organise ideas. All final content was written in my own words, reviewed for accuracy, and aligned with unit expectations and the Harvard referencing style.
