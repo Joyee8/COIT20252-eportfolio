@@ -24,14 +24,35 @@ This e-portfolio presents four artefacts related to Robotic Process Automation (
 | **Type** | 🎬 YouTube Video |
 | **Published** | 2025 |
 | **Watch** | [What is Robotic Process Automation (RPA)?](https://www.youtube.com/watch?v=xW95yb6J1eU) |
-| **Relevance** | Introduction to RPA, software bots, business automation |
+| **Relevance** | What RPA is, how bots work, why businesses use it |
 
 **Artefact:** IBM Technology 2025, *What is Robotic Process Automation (RPA)?*, YouTube, viewed May 2025, <https://www.youtube.com/watch?v=xW95yb6J1eU>
 
 **Summary**
 
-This YouTube video published by IBM Technology explains what Robotic Process Automation is and how it works in a business context. The video describes RPA as a technology that uses software bots to mimic human actions in digital systems — such as clicking, typing, copying data, and filling forms — to complete repetitive, rule-based tasks automatically. It explains how RPA bots interact with existing applications without requiring changes to underlying systems, making RPA a fast and cost-effective way for organisations to automate high-volume processes (IBM Technology 2025, p. 1).
+This video from IBM Technology breaks down what Robotic Process Automation actually is and how it works day to day inside a business. The presenter explains that RPA uses software bots to copy what a human worker would do on a computer — things like opening applications, typing data, clicking buttons, and moving information between systems. What made this video useful was that it did not just define RPA but showed real examples of where bots are used, making it easy to picture how this technology fits into an actual workplace (IBM Technology 2025, p. 1).
 
 **Justification**
 
-I chose this artefact because it gave me the clearest and most accessible introduction to RPA I could find. Before watching this video I understood automation in a general sense from my IT studies, but I had not seen how it connects specifically to business processes. Watching the video helped me understand that RPA is not about building new systems — it is about teaching a bot to do what a human employee would do inside existing systems. This was an important distinction for me because it showed why RPA is so widely adopted: organisations do not need to replace their entire IT infrastructure to benefit from it. This artefact gave me a strong foundation for understanding the rest of the topic.
+I picked this video as my first artefact because I wanted to start with something that explained RPA simply and clearly before going into more detailed reading. I had heard the term RPA before in my IT studies but never really understood what it looked like in practice. This video fixed that. The moment that stuck with me most was when the presenter explained that a bot does not replace the system — it just learns to use the system the same way a person would. That was a genuinely new idea for me and it explained why companies can adopt RPA so quickly without overhauling their entire IT setup. It was the perfect starting point for this topic.
+
+### How RPA Works – Process Diagram
+┌─────────────────────────────────────────────────────────┐
+│               RPA BOT WORKFLOW                          │
+├─────────────────────────────────────────────────────────┤
+│                                                         │
+│  TRIGGER          ROBOT ACTION         OUTCOME          │
+│                                                         │
+│  New invoice  →  Bot opens system  →  Data extracted   │
+│  received        reads invoice        and validated     │
+│                  enters data                            │
+│                       ↓                                 │
+│               Decision Gateway                          │
+│              ╱                ╲                         │
+│         Valid?               Invalid?                   │
+│            ↓                    ↓                       │
+│     Auto approved          Flagged for                  │
+│     & processed            human review                 │
+│                                                         │
+│  ✅ Bot runs 24/7   ✅ No errors   ✅ No breaks         │
+└─────────────────────────────────────────────────────────┘
