@@ -22,15 +22,15 @@ This e-portfolio presents four artefacts related to Robotic Process Automation (
 
 | Field | Details |
 |---|---|
-| **Type** | 🎬 YouTube Videos |
+| **Type** |  YouTube Videos |
 | **Published** | 2022 & 2026 |
 | **Watch 1** | [What is Robotic Process Automation (RPA)? – IBM](https://www.youtube.com/watch?v=6S1etS5cLYI) |
 | **Watch 2** | [Robotic Process Automation Explained: What is RPA](https://www.youtube.com/watch?v=8gSmiMESo2s) |
 | **Relevance** | What RPA is, how bots work, why businesses use it |
 
-**Artefact:** IBM 2022, *What is Robotic Process Automation (RPA)?*, YouTube, 17 August, viewed May 2025, <https://www.youtube.com/watch?v=6S1etS5cLYI>
+**Artefact:** IBM 2022, *What is Robotic Process Automation (RPA)?*, YouTube, 17 August, viewed May 2026, <https://www.youtube.com/watch?v=6S1etS5cLYI>
 
-**Artefact:** TechTarget 2026, *Robotic Process Automation Explained: What is RPA*, YouTube, 5 January, viewed May 2025, <https://www.youtube.com/watch?v=8gSmiMESo2s>
+**Artefact:** TechTarget 2026, *Robotic Process Automation Explained: What is RPA*, YouTube, 5 January, viewed May 2026, <https://www.youtube.com/watch?v=8gSmiMESo2s>
 
 **Summary**
 
