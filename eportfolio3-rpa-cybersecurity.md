@@ -15,44 +15,30 @@ This e-portfolio presents four artefacts related to Robotic Process Automation (
 
 ---
 
-## Artefact 1 – YouTube: What is Robotic Process Automation (RPA)? – IBM Technology
+## Artefact 1 – YouTube: What is Robotic Process Automation (RPA)?
 
-![IBM RPA YouTube Video](Images/rpa1-youtube-video.png)
+![RPA Diagram](Images/rpa1-diagram.png)
+![RPA YouTube Screenshot](Images/rpa1-youtube-video.png)
 
 | Field | Details |
 |---|---|
-| **Type** | 🎬 YouTube Video |
-| **Published** | 2025 |
-| **Watch** | [What is Robotic Process Automation (RPA)?](https://www.youtube.com/watch?v=xW95yb6J1eU) |
+| **Type** | 🎬 YouTube Videos |
+| **Published** | 2022 & 2026 |
+| **Watch 1** | [What is Robotic Process Automation (RPA)? – IBM](https://www.youtube.com/watch?v=6S1etS5cLYI) |
+| **Watch 2** | [Robotic Process Automation Explained: What is RPA](https://www.youtube.com/watch?v=8gSmiMESo2s) |
 | **Relevance** | What RPA is, how bots work, why businesses use it |
 
-**Artefact:** IBM Technology 2025, *What is Robotic Process Automation (RPA)?*, YouTube, viewed May 2025, <https://www.youtube.com/watch?v=xW95yb6J1eU>
+**Artefact:** IBM 2022, *What is Robotic Process Automation (RPA)?*, YouTube, 17 August, viewed May 2025, <https://www.youtube.com/watch?v=6S1etS5cLYI>
+
+**Artefact:** TechTarget 2026, *Robotic Process Automation Explained: What is RPA*, YouTube, 5 January, viewed May 2025, <https://www.youtube.com/watch?v=8gSmiMESo2s>
 
 **Summary**
 
-This video from IBM Technology breaks down what Robotic Process Automation actually is and how it works day to day inside a business. The presenter explains that RPA uses software bots to copy what a human worker would do on a computer — things like opening applications, typing data, clicking buttons, and moving information between systems. What made this video useful was that it did not just define RPA but showed real examples of where bots are used, making it easy to picture how this technology fits into an actual workplace (IBM Technology 2025, p. 1).
+These two videos together gave me a complete picture of what Robotic Process Automation is and how it works in practice. The IBM video explains that RPA uses software bots to handle repetitive digital tasks — things like extracting data, filling forms, and moving files between systems — the same way a human worker would, but faster and without errors. The TechTarget video builds on this by explaining the three main types of RPA that IT teams use to automate different kinds of repetitive processes, showing how RPA has evolved from a simple task tool into a strategic business technology (IBM 2022, p. 1; TechTarget 2026, p. 1).
 
 **Justification**
 
-I picked this video as my first artefact because I wanted to start with something that explained RPA simply and clearly before going into more detailed reading. I had heard the term RPA before in my IT studies but never really understood what it looked like in practice. This video fixed that. The moment that stuck with me most was when the presenter explained that a bot does not replace the system — it just learns to use the system the same way a person would. That was a genuinely new idea for me and it explained why companies can adopt RPA so quickly without overhauling their entire IT setup. It was the perfect starting point for this topic.
+I chose both videos because together they gave me a much more complete understanding of RPA than either one alone. The IBM video was the perfect starting point — it explained RPA in plain language without technical jargon, which helped me as someone with no prior BPM experience. What surprised me most was learning that bots do not need new systems — they simply learn to use existing ones the way a human would. The TechTarget video then showed me how RPA has matured, with different types suited to different business needs. Watching both back to back helped me see RPA not just as a single tool but as a whole category of automation that is rapidly transforming how organisations operate.
 
-### How RPA Works – Process Diagram
-┌─────────────────────────────────────────────────────────┐
-│               RPA BOT WORKFLOW                          │
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-│  TRIGGER          ROBOT ACTION         OUTCOME          │
-│                                                         │
-│  New invoice  →  Bot opens system  →  Data extracted   │
-│  received        reads invoice        and validated     │
-│                  enters data                            │
-│                       ↓                                 │
-│               Decision Gateway                          │
-│              ╱                ╲                         │
-│         Valid?               Invalid?                   │
-│            ↓                    ↓                       │
-│     Auto approved          Flagged for                  │
-│     & processed            human review                 │
-│                                                         │
-│  ✅ Bot runs 24/7   ✅ No errors   ✅ No breaks         │
-└─────────────────────────────────────────────────────────┘
+### How RPA Works – Process Diagram         
+
