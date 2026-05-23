@@ -41,4 +41,5 @@ These two videos together gave me a complete picture of what Robotic Process Aut
 I chose both videos because together they gave me a much more complete understanding of RPA than either one alone. The IBM video was the perfect starting point — it explained RPA in plain language without technical jargon, which helped me as someone with no prior BPM experience. What surprised me most was learning that bots do not need new systems — they simply learn to use existing ones the way a human would. The TechTarget video then showed me how RPA has matured, with different types suited to different business needs. Watching both back to back helped me see RPA not just as a single tool but as a whole category of automation that is rapidly transforming how organisations operate.
 
 ### How RPA Works – Process Diagram         
+![RPA Diagram](ep3_art1%20(1).png)
 
