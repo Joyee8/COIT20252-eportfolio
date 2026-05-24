@@ -113,3 +113,23 @@ I saved this artefact for last because it gave me the clearest sense of where al
 ### RPA Market Growth and Hyperautomation
 ![RPA Market Growth and Hyperautomation](ep3_art4.png)
 
+---
+
+## References
+
+Appwrk 2025, *RPA Robotic Process Automation Guide 2025*, Appwrk Insights, 9 June, viewed May 2025, <https://appwrk.com/insights/rpa-robotic-process-automation/>.
+
+IBM 2025, *What is a Cybersecurity Risk Assessment?*, IBM Think, viewed May 2025, <https://www.ibm.com/think/topics/cybersecurity-risk-assessment>.
+
+IBM 2025, *What is Robotic Process Automation (RPA)?*, IBM Think, viewed May 2025, <https://www.ibm.com/think/topics/rpa>.
+
+IBM 2022, *What is Robotic Process Automation (RPA)?*, YouTube video, 17 August, viewed May 2025, <https://www.youtube.com/watch?v=6S1etS5cLYI>.
+
+TechTarget 2026, *Robotic Process Automation Explained: What is RPA*, YouTube video, 5 January, viewed May 2025, <https://www.youtube.com/watch?v=8gSmiMESo2s>.
+
+---
+
+## Use of AI
+
+AI tools were used during the planning stages of this assessment to help identify relevant artefacts and check referencing format. All written content was written in my own words and reflects my own learning and experience with the topic.
+
