@@ -69,3 +69,29 @@ Before reading this I honestly thought RPA was just a fancy word for basic autom
 
 ### RPA in BPM Lifecycle
 ![RPA in BPM Lifecycle](ep3_art2.png)
+
+---
+
+## Artefact 3 – IBM: What is a Cybersecurity Risk Assessment?
+
+![Cybersecurity Risk Assessment Article](rpa3-cybersecurity-ibm.png)
+
+| Field | Details |
+|---|---|
+| **Type** | 🌐 Industry Article |
+| **Published** | 2025 |
+| **Link** | [ibm.com/think/topics/cybersecurity-risk-assessment](https://www.ibm.com/think/topics/cybersecurity-risk-assessment) |
+| **Relevance** | Cybersecurity risks in automated processes, risk assessment |
+
+**Artefact:** IBM 2025, *What is a Cybersecurity Risk Assessment?*, IBM Think, viewed May 2025, <https://www.ibm.com/think/topics/cybersecurity-risk-assessment>
+
+**Summary**
+
+This IBM article explains that a cybersecurity risk assessment is a structured way of finding and fixing security weaknesses in an organisation's systems and processes. It walks through how organisations identify where they are most at risk, evaluate how serious each threat is, and then put controls in place to protect against them. The article makes a specific point that automated processes are especially vulnerable — because if a bot is compromised, it can cause damage across the whole organisation very quickly, not just in one isolated area (IBM 2025, p. 1).
+
+**Justification**
+
+Cybersecurity was the part of this topic I found hardest to connect to BPM at first. I kept thinking of it as a separate IT issue rather than something that belongs inside a business process discussion. This article changed that. The part that really stuck with me was the point about automated processes being a bigger target than manual ones — because a bot touching hundreds of transactions a day is a much more attractive target for an attacker than a single human doing the same job. That was a genuinely new way of thinking about RPA for me. It showed me that the more you automate, the more seriously you need to take security. As someone studying IT, that is something I will carry into my future work.
+
+### Cybersecurity Risk Assessment Process
+![Cybersecurity Risk Assessment Process](ep3_art3.png)
