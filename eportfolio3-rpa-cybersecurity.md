@@ -46,7 +46,7 @@ I chose both videos because together they gave me a much more complete understan
 
 | Field | Details |
 |---|---|
-| **Type** | 🌐 Industry Article |
+| **Type** | Industry Article |
 | **Published** | 2025 |
 | **Link** | [ibm.com/think/topics/rpa](https://www.ibm.com/think/topics/rpa) |
 | **Relevance** | RPA definition, how bots work, connection to BPM |
@@ -71,7 +71,7 @@ Before reading this I honestly thought RPA was just a fancy word for basic autom
 
 | Field | Details |
 |---|---|
-| **Type** | 🌐 Industry Article |
+| **Type** | Industry Article |
 | **Published** | 2025 |
 | **Link** | [ibm.com/think/topics/cybersecurity-risk-assessment](https://www.ibm.com/think/topics/cybersecurity-risk-assessment) |
 | **Relevance** | Cybersecurity risks in automated processes, risk assessment |
