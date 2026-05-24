@@ -62,8 +62,10 @@ I chose both videos because together they gave me a much more complete understan
 
 This IBM article explains what RPA actually is in straightforward terms. It describes how software bots take over repetitive digital tasks — things like copying data between systems, filling in forms, and processing invoices — that human workers would normally spend hours doing every day. The article also makes the point that RPA is not a standalone tool. It works best when it is applied to processes that have already been properly mapped and understood, which is what BPM is all about (IBM 2025, p. 1).
 
-![RPA in BPM Lifecycle](ep3_art2.png)
 
 **Justification**
 
 Before reading this I honestly thought RPA was just a fancy word for basic automation scripts that IT people write. This article changed that completely. What clicked for me was the part where IBM explained that RPA sits at the end of the BPM lifecycle — you analyse the process first, model it, and then automate it. That made me realise that everything I studied in E-Portfolios 1 and 2 was actually building towards this. Without process analysis and modelling, automating a broken process would just make the problems happen faster. That was a genuinely new way of thinking about it for me and it made the whole BPM lifecycle make a lot more sense.
+
+###RPA in BPM Lifecycle
+![RPA in BPM Lifecycle](ep3_art2.png)
