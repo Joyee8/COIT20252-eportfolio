@@ -88,3 +88,28 @@ Cybersecurity was the part of this topic I found hardest to connect to BPM at fi
 
 ### Cybersecurity Risk Assessment Process
 ![Cybersecurity Risk Assessment Process](ep3_art3.png)
+
+---
+
+## Artefact 4 – Appwrk: RPA Robotic Process Automation Guide 2025
+
+| Field | Details |
+|---|---|
+| **Type** | Industry Guide |
+| **Published** | 9 June 2025 |
+| **Link** | [appwrk.com/insights/rpa-robotic-process-automation](https://appwrk.com/insights/rpa-robotic-process-automation/) |
+| **Relevance** | RPA market growth, hyperautomation, real world use cases |
+
+**Artefact:** Appwrk 2025, *RPA Robotic Process Automation Guide 2025*, Appwrk Insights, 9 June, viewed May 2025, <https://appwrk.com/insights/rpa-robotic-process-automation/>
+
+**Summary**
+
+This industry guide from Appwrk gives a big picture view of where RPA is heading in 2025 and beyond. It explains that the global RPA market has already reached USD 28 billion and is expected to grow to USD 247 billion by 2035. The guide covers real use cases across banking, healthcare, and retail, and introduces the concept of hyperautomation — where RPA is combined with artificial intelligence to handle tasks that are too complex for basic bots alone (Appwrk 2025, p. 1).
+
+**Justification**
+
+I saved this artefact for last because it gave me the clearest sense of where all of this is heading. The market numbers honestly surprised me — I had no idea RPA was already a multi-billion dollar industry. What really changed my thinking was the section on hyperautomation. I had been thinking of RPA as bots doing simple repetitive tasks, but this guide showed me that when you combine RPA with AI, the possibilities go much further than that. For me as an IT student, that was the most exciting part of this whole topic. It made me realise that understanding BPM and RPA is not just useful for business roles — it is becoming essential for anyone working in technology.
+
+### RPA Market Growth and Hyperautomation
+![RPA Market Growth and Hyperautomation](ep3_art4.png)
+
